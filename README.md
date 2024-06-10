@@ -51,6 +51,9 @@ This project is the backend for an e-commerce application, providing a RESTful A
 
 ## Usage
 
+### walkthrough video
+https://drive.google.com/file/d/1gHopjDOAvurULADiRvALqY-LYMFsndxJ/view?usp=sharing
+
 1. **Start the server**:
     ```bash
     node server.js
